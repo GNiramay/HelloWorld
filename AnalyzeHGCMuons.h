@@ -1,3 +1,8 @@
+/* This part of the comment was edited from cloned repository */
+
+
+
+
 #ifndef ANALYZEHGCMuons_H
 #define ANALYZEHGCMuons_H
 
