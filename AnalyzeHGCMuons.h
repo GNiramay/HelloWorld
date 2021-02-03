@@ -170,7 +170,7 @@ void AnalyzeHGCMuons::BookHistogram(const char *outFileName) {
   h_COG_E=new TH1F("COG_E","Center of Gravity of shower",150,0,60);
   h_CG_NR = new TH2F("CG_NR","Center of gravity vs nrechits",500,0,1000,150,0,60);
   /* g_shower=new TGraph(28,); */
-  std::cout<<"HahaLol\n":
+  std::cout<<"Now we merge Branch2 to master. Haha\n":
 }
 
 
